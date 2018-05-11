@@ -1,2 +1,2 @@
-def say_hello
+def say_hello(name = "Hello Ruby Programmer!")
 end
